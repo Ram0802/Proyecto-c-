@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1537897447 source:c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo 4 final\trabajo_final\principal.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<clocale>
+	<ctime>
+	"Archivos/Clientes.h"
+	"Archivos/Choferes.h"
+	"Archivos/viajes.h"
+	"Archivos/Reportes.h"
+	"Archivos/Configuracion.h"
+
+1537901098 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo 4 final\trabajo_final\archivos\clientes.h
+
+1537914704 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo 4 final\trabajo_final\archivos\choferes.h
+
+1537915463 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo 4 final\trabajo_final\archivos\viajes.h
+
+1537924587 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo 4 final\trabajo_final\archivos\reportes.h
+
+1537926731 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo 4 final\trabajo_final\archivos\configuracion.h
+
+1538011997 source:c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo_final_alternativo\principal.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<clocale>
+	<ctime>
+	"Archivos/Fecha.h"
+	"Archivos/Clientes.h"
+	"Archivos/Choferes.h"
+	"Archivos/viajes.h"
+	"Archivos/Reportes.h"
+	"Archivos/Configuracion.h"
+
+1542772619 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo_final_alternativo\archivos\clientes.h
+
+1542848490 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo_final_alternativo\archivos\choferes.h
+
+1542843991 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo_final_alternativo\archivos\viajes.h
+
+1542841966 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo_final_alternativo\archivos\reportes.h
+
+1538004755 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo_final_alternativo\archivos\configuracion.h
+
+1537983745 c:\users\ramiro1\desktop\c++ (clase)\2018\tp\trabajo final\trabajo_final_alternativo\archivos\fecha.h
+
